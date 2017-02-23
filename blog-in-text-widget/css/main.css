@@ -1,0 +1,83 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.cta h2 {
+/*    text-transform: uppercase;*/
+}
+.cta-widget {
+    border: solid 10px #eee;
+    /*    background-color: #BDD4DE;*/
+    /*    background-color: #DBF4FF;*/
+    background-color: #2B3A58;
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+    padding: 40px 40px;
+}
+
+.cta-widget-light-back {
+    border: solid 10px #eee;
+    /*    background-color: #BDD4DE;*/
+    /*    background-color: #DBF4FF;*/
+    background-color: #2B3A58;
+    padding: 20px;
+    color: #333;
+    text-align: center;
+    padding: 40px 40px;
+}
+.cta-text-lg {
+    font-size: 1.4em;
+}
+.cta-text-yellow {
+    color: #fef552;
+}
+.cta-sec-button {
+    text-align: center;
+}
+
+/*Make boostrap button bigger*/
+
+.cta .btn-xlarge {
+    padding: 14px 22px;
+    font-size: 18px;
+    line-height: normal;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.background-career {
+    background: url(../img/cta-background-career2.jpg) no-repeat left center;
+    ;
+}
+.background-info {
+    background: url(../img/cta-background-info.jpg) no-repeat left center;
+    ;
+}
+
+.background-info-2 {
+    background: url(../img/cta-background-info2.jpg) no-repeat left center;
+    ;
+}
+
+.background-info-3 {
+    background: url(../img/cta-background-info3.jpg) no-repeat left center;
+    ;
+}
+.background-lis {
+    background: url(../img/cta-background-lis2.jpg) no-repeat left center;
+    ;
+}
+.background-lissm {
+    background: url(../img/cta-background-lissm.jpg) no-repeat left center;
+    ;
+}
+
+.background-lissm2 {
+    background: url(../img/cta-background-lissm2.jpg) no-repeat left center;
+    ;
+}
+
+.glyphicon {
+    font-size: 50px;
+}

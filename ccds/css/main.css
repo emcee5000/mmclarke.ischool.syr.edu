@@ -1,0 +1,72 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+    font-size: 16px;
+    line-height: 1.375em;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "ITCFranklinGothicW01-Dm_812677", Arial, sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+}
+h1 {
+    font-size: 3em;
+    line-height: 1.05em;
+}
+h2 {
+    font-size: 2.25em;
+    line-height: 1.25em;
+}
+h3 {
+    font-size: 1.75em;
+    line-height: 1.25em;
+}
+h4 {
+    font-size: 1.125em;
+    line-height: 1.22222222em;
+}
+.nav-container {
+    max-width: 1200px;
+}
+.navbar {
+    min-height: 90px;
+    font-weight: 700;
+}
+section {
+    padding: 15px 0 40px 0;
+}
+.projects {}
+.news {
+    background-color: #D44500;
+    color: #fff;
+}
+.events {}
+.team {
+    background-color: #43799F;
+    color: #fff
+}
+.team img {
+    max-width: 150px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.footer {
+    background-color: #333;
+    color: #fff;
+}
+.btn {
+    border-radius: 0px;
+    border: none;
+}
+@media (min-width: 768px) {
+    .navbar-nav {
+        margin-top: 36px;
+    }
+}
